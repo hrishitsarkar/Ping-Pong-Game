@@ -1,0 +1,4 @@
+1.the game will start pressing enter
+2.rods will move by a and d;
+3.each collision rods will get the point
+4.each collision the velocity of the ball will increase
